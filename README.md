@@ -1,5 +1,5 @@
 # Game-Store-Template-for-SwiftUI
-Game store template written by SwiftUI
+Game store template using SwiftUI
 
 ## Installation ##
 * Git and clone <br/>
